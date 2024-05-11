@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p>Sometimes, success is like a hippopotamus, it emerges in the middle of the desert without any reason.</p>
+<p>that's about horse in the Nile river😒</p>
+
+##just kidding 👋
+
 <!--
 **ilhamdika/ilhamdika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
