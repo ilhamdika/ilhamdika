@@ -2,6 +2,13 @@
 
 <p>Salt of the earth and dangerous</p>
 
+<p>
+  <tr>
+    
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamdika&&layout=compact&langs_count=8&theme=radical&hide_border=true" height="185"/></td>
+  </tr>
+</p>
+
 <!--
 **ilhamdika/ilhamdika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
